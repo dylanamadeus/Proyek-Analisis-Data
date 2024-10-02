@@ -1,1 +1,1 @@
-https://bike-rentals-data-visualization.streamlit.app/
+https://bike-sharing-data-visualization.streamlit.app/
